@@ -1,0 +1,214 @@
+{
+  "name": "base4tone-vscode-themes",
+  "displayName": "Base4Tone-VSCode-Themes",
+  "description": "color themes",
+  "version": "0.0.1",
+  "publisher": "Atelierbram",
+  "author": {
+    "name": "Bram de Haan"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atelierbram/Base4tone-VSCode-Themes.git"
+  },
+  "homepage": "https://github.com/atelierbram/Base4tone-VSCode-Themes/blob/master/README.md",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#363032",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "base4tone",
+    "Schemes",
+    "harmonic",
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Base4Tone_Classic_A_Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Base4Tone_Classic-A_Dark-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_B_Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Base4Tone_Classic-B_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_C_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-C_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_D_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-D_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_E_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-E_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_F_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-F_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_I_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-I_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_L_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-L_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_O_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-O_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_P_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-P_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_Q_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-Q_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_R_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-R_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_S_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-S_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_T_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-T_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_U_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-U_Dark-color-theme.json"
+      },             {
+      "label": "Base4Tone_Classic_W_Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Base4Tone_Classic-W_Dark-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Modern_C_Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Base4Tone_Modern-C_Dark-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Modern_N_Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Base4Tone_Modern-N_Dark-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Modern_W_Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Base4Tone_Modern-W_Dark-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_A_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-A_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_B_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-B_Light-color-theme.json"
+      }, 
+      {
+        "label": "Base4Tone_Classic_C_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-C_Light-color-theme.json"
+      }, 
+      {
+        "label": "Base4Tone_Classic_D_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-D_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_E_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-E_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_F_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-F_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_I_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-I_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_L_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-L_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_O_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-O_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_P_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-P_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_Q_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-Q_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_R_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-R_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_S_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-S_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_T_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-T_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_U_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-U_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Classic_W_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Classic-W_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Modern_C_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Modern-C_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Modern_N_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Modern-N_Light-color-theme.json"
+      },
+      {
+        "label": "Base4Tone_Modern_W_Light",
+        "uiTheme": "vs",
+        "path": "./themes/Base4Tone_Modern-W_Light-color-theme.json"
+      }
+    ]
+  }
+}
