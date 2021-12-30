@@ -2213,7 +2213,7 @@
     "statusBarItem.prominentBackground": "#333b47",
     "statusBarItem.prominentHoverBackground": "#333b47",
     "statusBarItem.activeBackground": "#5e6c82",
-    "statusBarItem.hoverBackground": "#5e6c82",
+    "statusBarItem.hoverBackground": "#1a1d23",
     "titleBar.activeBackground": "#111418",
     "titleBar.activeForeground": "#dcdfe5",
     "titleBar.inactiveBackground": "#07090d",
