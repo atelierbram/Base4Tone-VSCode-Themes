@@ -89,3 +89,11 @@ Screenshot of Base4Tone_Modern_N_Light in VSCode
 1.  Click **Reload** to reload the Code
 1.  From the menu bar click: Code > Preferences > Color Theme > _(or CMD-K-T)_ **Base4Tone_Classic_A_Dark** or any of the other themes (_use the arrow keys to preview_)
 
+### Note
+One can disable the coloration of matching brackets in settings, because it doesn't fit these themes at all, ... looks terrible in my eyes. Note that these bracket colors are not from the theme files, and look the same across different themes. Not telling anyone what to do of course but just a heads up, see also [this issue](https://github.com/microsoft/vscode/issues/149006).
+
+```bash
+    "editor.matchBrackets": "always",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.language.colorizedBracketPairs": [["(", ")"]],
+```
